@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/colorPrimary"
+    >
+
+    <item
+        android:id="@+id/action_search_btn"
+        android:title="Search" />
+    <item
+        android:id="@+id/action_post_btn"
+        android:title="Post News" />
+    <item
+        android:id="@+id/action_settings_btn"
+        android:title="Settings" />
+    <item
+        android:id="@+id/action_feedback_btn"
+        android:title="Feedback" />
+    <item
+        android:id="@+id/action_feed_btn"
+        android:title="Feed" />
+    <item
+        android:id="@+id/action_about_btn"
+        android:title="About" />
+    <item
+        android:id="@+id/action_logout_btn"
+        android:title="Logout" />
+</menu>

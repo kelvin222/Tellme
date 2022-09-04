@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002013090958",
+    "firebase_url": "https://tellme-ec5cc.firebaseio.com",
+    "project_id": "tellme-ec5cc",
+    "storage_bucket": "tellme-ec5cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002013090958:android:56cb24b737d15550e495df",
+        "android_client_info": {
+          "package_name": "com.a3nitysoft.kelvin.tellme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002013090958-kbnf8mg27soubape0h8ats42ekfk5vn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a3nitysoft.kelvin.tellme",
+            "certificate_hash": "5f4c2bca200a93a94e0ee23ec165de46e7e44231"
+          }
+        },
+        {
+          "client_id": "1002013090958-gdrdnp9qh77efe2vhkbc6vlqv6bhlma4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD90U0luxkNX5tG4h99z9Dr4wKqDryVfd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002013090958-gdrdnp9qh77efe2vhkbc6vlqv6bhlma4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tellme</string>
+    <string name="bottom_ent_text">Entertainment</string>
+    <string name="bottom_sport_text">Sport</string>
+    <string name="bottom_nija_text">Nigeria</string>
+    <string name="bottom_world_text">World</string>
+    <string name="download_info">Downloading.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="aboutus">Tellme is an application designed to keep you updated and informed on the latest news, Our contents are reviewed and sorted from major news outlets.
+        </string>
+
+
+</resources>
